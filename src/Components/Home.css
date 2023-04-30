@@ -1,0 +1,15 @@
+.heading{
+   text-align: center; 
+   margin-top: 100px;
+}
+.navigateBtn{
+    text-align: center;
+    text-decoration: none;
+}
+.btn{
+    background-color: blue;
+    font-size:20px;
+    text-decoration: none;
+    color:white;
+    padding:10px;
+}
